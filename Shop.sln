@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop", "Shop\Shop.csproj", "{63E24E4D-92D9-4B45-AAFB-C14F1F6BC90F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop", "Shop\Shop.csproj", "{63E24E4D-92D9-4B45-AAFB-C14F1F6BC90F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E2A2612A-D53C-4209-9F4D-4EDA5935C623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Domain", "Shop.Domain\Shop.Domain.csproj", "{F816C79A-1397-4F47-BDA4-99B26145C914}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Domain", "Shop.Domain\Shop.Domain.csproj", "{F816C79A-1397-4F47-BDA4-99B26145C914}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{69C14303-3871-4DD9-B843-4ACF7774C298}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
