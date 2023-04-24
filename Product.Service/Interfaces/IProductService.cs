@@ -12,6 +12,7 @@ namespace Product.Service.Interfaces
     public interface IProductService
     {
         Task<BaseResponse<IEnumerable<Product>>> GetProducts();
+        //asdads
 
     }
 }
